@@ -1,0 +1,24 @@
+comandos
+
+pwd: para ver en que carpeta estoy
+cd: para entrar a la carpeta
+ls: ver lo que esta dentro de la carpeta
+git init: para iniciar un repositorio
+git status: para ver estado del repositorio
+git add: subir el nuevo cambio
+git coomit: para crear un commit
+git config: para configurar usario
+git log: ver autor, fecha, hora y ubicacion commit
+git diff: para ver los cambios en el codigo con el aneterior
+git checkout: para borrar los cambios en el codigo, o cambiar carpeta.
+git commit -m: para agregar mensaje al commit
+git branch: para crear una version alternativa
+git branch login: para avisarle que estamos por crear una version alternativa
+git remote add origin: dar direccion para guardar
+git push: subir codigo
+git push -u origin master: para subirlo por primera vez
+git clone: para clonar un repositorio
+
+:wq; para subir el commit
+i: para poder escribir el nombre del commit
+.gitignore: para ignorar carpetas, o texto 
